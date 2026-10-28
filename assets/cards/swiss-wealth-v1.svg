@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Automia — Swiss Private Wealth">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-label="Swiss Private Wealth — Private Banking Flagship">
 <defs>
 <radialGradient id="g" cx="18%" cy="8%" r="95%"><stop offset="0%" stop-color="#b89b5e" stop-opacity="0.30"/><stop offset="55%" stop-color="#b89b5e" stop-opacity="0.06"/><stop offset="100%" stop-color="#0a0a0b" stop-opacity="0"/></radialGradient>
 <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#b89b5e" stop-opacity="0.9"/><stop offset="100%" stop-color="#b89b5e" stop-opacity="0"/></linearGradient>
@@ -8,8 +8,8 @@
 <rect x="0" y="0" width="640" height="400" fill="none" stroke="#b89b5e" stroke-opacity="0.22"/>
 <text x="40" y="58" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="3.4" fill="#b89b5e">FINANCE / PRIVATE BANKING</text>
 <rect x="40" y="74" width="46" height="2" fill="url(#line)"/>
-<text x="40" y="126" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.6" fill="#8b8b93">AUTOMIA</text>
-<text x="40" y="176" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1.2" fill="#f4f4f5">Swiss Private Wealth</text>
+<text x="40" y="126" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.6" fill="#8b8b93">SWISS PRIVATE WEALTH</text>
+<text x="40" y="176" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1.2" fill="#f4f4f5">Private Banking Flagship</text>
 <text x="40" y="208" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8b8b93">Institutional sovereignty for a discreet few. Private banking,</text>
 <text x="40" y="230" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" fill="#8b8b93">custody and generational mandates from Geneva and Zürich.</text>
 <rect x="472" y="300" width="128" height="56" rx="12" fill="#b89b5e" fill-opacity="0.12" stroke="#b89b5e" stroke-opacity="0.45"/>
